@@ -1,0 +1,8 @@
+Tiffany.   01:03:40 am, January 23, 2017.   Kentucky Fried Chicken (KFC)   .   12, Red.   Diaper.   True.   China South Africa  .   100
+Kevin.   01:17:45 am, January 23, 2017.      .   .   .   .      .   0
+Susan.   01:24:46 am, January 23, 2017.   McDonalds   .   12, Red.   Diaper.   True.   Canada Singapore  .   60
+Abby.   06:03:58 pm, January 23, 2017.   Burger King   .   9, White.   Napkin.   True.   Canada Singapore  .   20
+Teddy.   06:17:47 pm, January 23, 2017.   Pizza Hut   .   12, Red.   Serviette.   True.   China South Africa  .   60
+Susan.   06:22:20 pm, January 23, 2017.   McDonalds   .   7, Pink.   Diaper.   False.   China South Africa  .   40
+William.   06:24:37 pm, January 23, 2017.   Kentucky Fried Chicken (KFC)   .   12, Red.   Diaper.   False.   Canada South Africa  .   60
+Tony.   06:26:05 pm, January 23, 2017.   Kentucky Fried Chicken (KFC)   .   12, Red.   Diaper.   True.   China Singapore  .   80
